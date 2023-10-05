@@ -5,6 +5,7 @@
 This project aims to predict rent prices for apartments in Manhattan using multiple linear regression. The dataset utilized for this analysis was generously provided by StreetEasy, a reputable real estate company, ensuring data reliability and accuracy. [Let's get started](Manhattan_Rent.ipynb)
 
 __Project Objectives__
+
 Utilize multiple linear regression to create a predictive model for Manhattan rent prices.
 Analyze various features that can influence rent prices, including the number of bedrooms, bathrooms, square footage, proximity to subway stations, floor level within the building, age of the building, and amenities such as a doorman, gym, and dishwasher.
 
