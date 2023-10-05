@@ -9,7 +9,7 @@ This project aims to predict rent prices for apartments in Manhattan using multi
 Utilize multiple linear regression to create a predictive model for Manhattan rent prices.
 Analyze various features that can influence rent prices, including the number of bedrooms, bathrooms, square footage, proximity to subway stations, floor level within the building, age of the building, and amenities such as a doorman, gym, and dishwasher.
 
-__Features__
+## Features
 The dataset includes the following pertinent features:
 
 * Number of bedrooms
@@ -20,7 +20,7 @@ The dataset includes the following pertinent features:
 * Age of the building
 * Amenities such as a doorman, gym, dishwasher, and more.
 
-__How to Use__
+## How to Use
 
 To make rent predictions for your specific apartment in Manhattan:
 
